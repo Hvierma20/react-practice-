@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.jumbotron{ 
+  background-color: darkslategrey;
+  color: blanchedalmond;
+}
+
+.button, .button:hover {
+  background-color: blanchedalmond;
+  color: darkslategray;
+  border: none;
+}
+
+.cardHeader{
+  background-color: darkslategrey;
+  color: blanchedalmond;
+  text-align: center;
+}
+
+
+.projects{
+  background-color: white;
+}
+
+.links{
+  color: blue;
+  font-size: small;
+}
+
+
+  
